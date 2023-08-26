@@ -1,0 +1,8 @@
+.card{
+    width: 500px;
+    background-color: aqua;
+    text-align: center;
+}
+#dish-name { 
+    color: #ffffff;
+}
